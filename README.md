@@ -63,7 +63,7 @@ Para ejecutar los tests de las homeworks debes:
 -  Si quieres ejecutar un test específico de una clase, deberás ingresar a la carpeta **`test`** desde tu terminal. Allí podrás ejecutras un test de forma individual con el comando:
 
 ```bash
-    npm run jest [nombreDelArchivo]
+    npm run test [nombreDelArchivo]
 ```
 
 ---

@@ -20,6 +20,6 @@ function filtrarNumerosPares(array) {
 
   return arrayNumerosPares;
 }
-}
+
 
 module.exports = filtrarNumerosPares;
